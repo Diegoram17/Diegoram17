@@ -40,7 +40,7 @@ Currently specializing in PMO, technology consulting, and data-driven solutions,
 
 <td align="center" width="250">
 
-<img src="https://cdn.worldvectorlogo.com/logos/pmi-logo.svg" width="60"/>
+<img src="./assets/certifications/pmi.jpg" width="60"/>
 
 ### PMP®
 
@@ -53,7 +53,7 @@ Project Management Professional
 
 <td align="center" width="250">
 
-<img src="https://cdn.worldvectorlogo.com/logos/google-icon.svg" width="60"/>
+<img src="./assets/certifications/pmi.jpg" width="60"/>
 
 ### Google PM
 
