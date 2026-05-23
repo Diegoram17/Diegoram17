@@ -38,29 +38,25 @@ Currently specializing in PMO, technology consulting, and data-driven solutions,
 <table>
 <tr>
 
-<td align="center" width="250">
+<td align="center" width="220">
 
-<img src="assets/pmi.jpg" width="60"/>
+<img src="assets/pmi.jpg" width="42"/><br><br>
 
-### PMP®
+<b>PMP®</b><br>
+Project Management Professional<br><br>
 
-Project Management Professional
-
-🟦 PMI  
-📍 Gestión de Proyectos
+<sub>🟦 PMI • Gestión de Proyectos</sub>
 
 </td>
 
-<td align="center" width="250">
+<td align="center" width="220">
 
-<img src="assets/pmi.jpg" width="60"/>
+<img src="assets/pmi.jpg" width="42"/><br><br>
 
-### Google PM
+<b>Google PM</b><br>
+Professional Certificate<br><br>
 
-Professional Certificate
-
-🟦 Google  
-📍 Project Management
+<sub>🟦 Google • Project Management</sub>
 
 </td>
 
