@@ -31,172 +31,22 @@ Currently specializing in PMO, technology consulting, and data-driven solutions,
 
 ## 🏅 Certificaciones
 
-<h3>📌 Project Management</h3>
-
 <div align="center">
 
-<table>
-<tr>
-
-<td align="center" width="220">
-
-<img src="assets/pmi.jpg" width="42"/><br><br>
-
-<b>PMP®</b><br>
-Project Management Professional<br><br>
-
-<sub>🟦 PMI • Gestión de Proyectos</sub>
-
-</td>
-
-<td align="center" width="220">
-
-<img src="assets/pmi.jpg" width="42"/><br><br>
-
-<b>Google PM</b><br>
-Professional Certificate<br><br>
-
-<sub>🟦 Google • Project Management</sub>
-
-</td>
-
-</tr>
-</table>
+| Logo | Certificación | Entidad | Área |
+|:---:|:---|:---:|:---:|
+| ![PMI](https://img.shields.io/badge/PMI-white?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMDAzMDg3Ii8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIGZvbnQtc2l6ZT0iMjIiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsIj5QTUk8L3RleHQ+PC9zdmc+&logoColor=white) | ![PMP](https://img.shields.io/badge/PMP%C2%AE-Project%20Management%20Professional-003087?style=flat-square) | PMI | Gestión de Proyectos |
+| ![PMI](https://img.shields.io/badge/PMI-white?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMDAzMDg3Ii8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIGZvbnQtc2l6ZT0iMjIiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsIj5QTUk8L3RleHQ+PC9zdmc+&logoColor=white) | ![PMI-ACP](https://img.shields.io/badge/PMI--ACP%C2%AE-Agile%20Certified%20Practitioner-005B96?style=flat-square) | PMI | Agilidad |
+| ![Scrum](https://img.shields.io/badge/Scrum.org-white?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMDA5RkRBIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsIj5QU008L3RleHQ+PC9zdmc+) | ![PSM II](https://img.shields.io/badge/PSM%20II-Advanced%20Scrum%20Master-009FDA?style=flat-square) | Scrum.org | Scrum Avanzado |
+| ![SA](https://img.shields.io/badge/Scrum%20Alliance-white?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjNDlBQTQyIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsIj5TQTwvdGV4dD48L3N2Zz4=) | ![CSPO](https://img.shields.io/badge/CSPO%C2%AE-Certified%20Scrum%20Product%20Owner-49AA42?style=flat-square) | Scrum Alliance | Product Owner |
+| ![Microsoft](https://img.shields.io/badge/Microsoft-white?style=flat-square&logo=microsoft&logoColor=black) | ![PL-300](https://img.shields.io/badge/PL--300-Power%20BI%20Data%20Analyst%20Associate-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Microsoft | Business Intelligence |
+| ![CFA](https://img.shields.io/badge/CFA%20Institute-white?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjOEIwMDAwIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsIj5DRkE8L3RleHQ+PC9zdmc+) | ![CFA](https://img.shields.io/badge/CFA%20Level%20I-Passed-8B0000?style=flat-square) | CFA Institute | Finanzas |
+| ![Google](https://img.shields.io/badge/Google-white?style=flat-square&logo=google&logoColor=black) | ![Google PM](https://img.shields.io/badge/Google%20PM-Project%20Management%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white) | Google | Project Management |
+| ![UiPath](https://img.shields.io/badge/UiPath-white?style=flat-square&logo=uipath&logoColor=FA4616) | ![UiPath](https://img.shields.io/badge/UiPath-RPA%20Specialist-FA4616?style=flat-square&logo=uipath&logoColor=white) | UiPath | Automatización |
+| ![IBM](https://img.shields.io/badge/IBM-white?style=flat-square&logo=ibm&logoColor=052FAD) | ![IBM](https://img.shields.io/badge/IBM-DevOps%20%26%20Agile%20Foundation-052FAD?style=flat-square&logo=ibm&logoColor=white) | IBM | DevOps & Cloud |
 
 </div>
 
----
-
-<h3>🚀 Agile & Scrum</h3>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="250">
-
-<img src="https://cdn.worldvectorlogo.com/logos/pmi-logo.svg" width="60"/>
-
-### PMI-ACP®
-
-Agile Certified Professional
-
-🟦 PMI  
-📍 Agilidad
-
-</td>
-
-<td align="center" width="250">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Scrum.org_logo.svg" width="80"/>
-
-### PSM II
-
-Professional Scrum Master
-
-🟦 Scrum.org  
-📍 Scrum Avanzado
-
-</td>
-
-<td align="center" width="250">
-
-<img src="https://seeklogo.com/images/S/scrum-alliance-logo-3442914CE2-seeklogo.com.png" width="60"/>
-
-### CSPO®
-
-Certified Scrum Product Owner
-
-🟩 Scrum Alliance  
-📍 Product Owner
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<h3>📊 Data & Automation</h3>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="250">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60"/>
-
-### PL-300
-
-Power BI Data Analyst
-
-🟨 Microsoft  
-📍 Business Intelligence
-
-</td>
-
-<td align="center" width="250">
-
-<img src="https://cdn.worldvectorlogo.com/logos/uipath-2.svg" width="60"/>
-
-### UiPath RPA
-
-Automation Specialist
-
-🟧 UiPath  
-📍 Automatización
-
-</td>
-
-<td align="center" width="250">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="70"/>
-
-### IBM DevOps
-
-DevOps & Agile
-
-🟦 IBM  
-📍 Cloud & DevOps
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-<h3>💰 Finance</h3>
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="250">
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/CFA_logo.svg" width="60"/>
-
-### CFA Level I
-
-Exam Passed
-
-🟥 CFA Institute  
-📍 Finanzas
-
-</td>
-
-</tr>
-</table>
-
-</div>
 ---
 
 ## ⚙️ Tech Stack & Herramientas
