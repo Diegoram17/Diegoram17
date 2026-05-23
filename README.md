@@ -29,21 +29,137 @@ Currently specializing in PMO, technology consulting, and data-driven solutions,
 
 ---
 
-## 🏅 Certificaciones
+## 🏅 Certifications
+
+<h3>📌 Project Management</h3>
 
 <div align="center">
 
-| Logo | Certificación | Entidad | Área |
-|:---:|:---|:---:|:---:|
-| <img src="assets/pmi.jpg" width="35"/> | ![PMP](https://img.shields.io/badge/PMP%C2%AE-Project%20Management%20Professional-003087?style=flat-square) | PMI | Gestión de Proyectos |
-| <img src="assets/pmi.jpg" width="35"/> | ![PMI-ACP](https://img.shields.io/badge/PMI--ACP%C2%AE-Agile%20Certified%20Practitioner-005B96?style=flat-square) | PMI | Agilidad ||
-| ![Scrum](https://img.shields.io/badge/Scrum.org-white?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjMDA5RkRBIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsIj5QU008L3RleHQ+PC9zdmc+) | ![PSM II](https://img.shields.io/badge/PSM%20II-Advanced%20Scrum%20Master-009FDA?style=flat-square) | Scrum.org | Scrum Avanzado |
-| ![SA](https://img.shields.io/badge/Scrum%20Alliance-white?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjNDlBQTQyIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsIj5TQTwvdGV4dD48L3N2Zz4=) | ![CSPO](https://img.shields.io/badge/CSPO%C2%AE-Certified%20Scrum%20Product%20Owner-49AA42?style=flat-square) | Scrum Alliance | Product Owner |
-| ![Microsoft](https://img.shields.io/badge/Microsoft-white?style=flat-square&logo=microsoft&logoColor=black) | ![PL-300](https://img.shields.io/badge/PL--300-Power%20BI%20Data%20Analyst%20Associate-F2C811?style=flat-square&logo=powerbi&logoColor=black) | Microsoft | Business Intelligence |
-| ![CFA](https://img.shields.io/badge/CFA%20Institute-white?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA2NCA2NCI+PHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiBmaWxsPSIjOEIwMDAwIi8+PHRleHQgeD0iNTAlIiB5PSI1NSUiIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IkFyaWFsIj5DRkE8L3RleHQ+PC9zdmc+) | ![CFA](https://img.shields.io/badge/CFA%20Level%20I-Passed-8B0000?style=flat-square) | CFA Institute | Finanzas |
-| ![Google](https://img.shields.io/badge/Google-white?style=flat-square&logo=google&logoColor=black) | ![Google PM](https://img.shields.io/badge/Google%20PM-Project%20Management%20Certificate-4285F4?style=flat-square&logo=google&logoColor=white) | Google | Project Management |
-| ![UiPath](https://img.shields.io/badge/UiPath-white?style=flat-square&logo=uipath&logoColor=FA4616) | ![UiPath](https://img.shields.io/badge/UiPath-RPA%20Specialist-FA4616?style=flat-square&logo=uipath&logoColor=white) | UiPath | Automatización |
-| ![IBM](https://img.shields.io/badge/IBM-white?style=flat-square&logo=ibm&logoColor=052FAD) | ![IBM](https://img.shields.io/badge/IBM-DevOps%20%26%20Agile%20Foundation-052FAD?style=flat-square&logo=ibm&logoColor=white) | IBM | DevOps & Cloud |
+<table>
+<tr>
+
+<td align="center" width="230">
+
+<b>PMP®</b><br>
+Project Management Professional<br>
+<sub>🟦 PMI • Gestión de Proyectos</sub>
+
+</td>
+
+<td align="center" width="230">
+
+<b>Google PM</b><br>
+Professional Certificate<br>
+<sub>🟦 Google • Project Management</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+<div style="width:70%; height:1px; background:#30363d;"></div>
+</div>
+
+<h3>🚀 Agile & Scrum</h3>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="230">
+
+<b>PMI-ACP®</b><br>
+Agile Certified Professional<br>
+<sub>🟦 PMI • Agilidad</sub>
+
+</td>
+
+<td align="center" width="230">
+
+<b>PSM II</b><br>
+Professional Scrum Master<br>
+<sub>🟦 Scrum.org • Scrum Avanzado</sub>
+
+</td>
+
+<td align="center" width="230">
+
+<b>CSPO®</b><br>
+Certified Scrum Product Owner<br>
+<sub>🟩 Scrum Alliance • Product Owner</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+<div style="width:70%; height:1px; background:#30363d;"></div>
+</div>
+
+<h3>📊 Data & Automation</h3>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="230">
+
+<b>PL-300</b><br>
+Power BI Data Analyst<br>
+<sub>🟨 Microsoft • Business Intelligence</sub>
+
+</td>
+
+<td align="center" width="230">
+
+<b>UiPath RPA</b><br>
+Automation Specialist<br>
+<sub>🟧 UiPath • Automatización</sub>
+
+</td>
+
+<td align="center" width="230">
+
+<b>IBM DevOps</b><br>
+DevOps & Agile<br>
+<sub>🟦 IBM • Cloud & DevOps</sub>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+<div style="width:70%; height:1px; background:#30363d;"></div>
+</div>
+
+<h3>💰 Finance</h3>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="230">
+
+<b>CFA Level I</b><br>
+Exam Passed<br>
+<sub>🟥 CFA Institute • Finanzas</sub>
+
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -78,48 +194,95 @@ Currently specializing in PMO, technology consulting, and data-driven solutions,
 
 ---
 
-## 🎯 Áreas de Expertise
+## 🎯 Areas of Expertise
 
 <div align="center">
 
-```
-┌─────────────────────────┐  ┌─────────────────────────┐  ┌─────────────────────────┐
-│   📐 GESTIÓN PMI         │  │   ⚡ METODOLOGÍAS ÁGILES  │  │   📊 DATA ANALYTICS      │
-│                         │  │                         │  │                         │
-│  • Planificación        │  │  • Scrum / Kanban        │  │  • Power BI Dashboards  │
-│  • Control de alcance   │  │  • SAFe Framework        │  │  • KPIs & OKRs          │
-│  • Gestión de riesgos   │  │  • Product Backlog       │  │  • Análisis financiero  │
-│  • PMO & Portafolios    │  │  • Sprint Planning       │  │  • SQL & Python         │
-└─────────────────────────┘  └─────────────────────────┘  └─────────────────────────┘
+<table>
+<tr>
 
-┌─────────────────────────┐  ┌─────────────────────────┐
-│   🔄 TRANSFORMACIÓN DIG. │  │   💰 FINANZAS CORP.      │
-│                         │  │                         │
-│  • Automatización RPA   │  │  • Modelos financieros  │
-│  • Low-Code Apps        │  │  • Análisis costo-benef │
-│  • Rediseño de procesos │  │  • Presupuesto & OPEX   │
-│  • Gestión del cambio   │  │  • CFA Nivel 1          │
-└─────────────────────────┘  └─────────────────────────┘
-```
+<td align="left" width="300">
+
+### 📐 Project Management
+
+- Project Planning  
+- Scope & Risk Control  
+- PMO & Portfolio Management  
+- Governance & Reporting  
+
+</td>
+
+<td align="left" width="300">
+
+### ⚡ Agile Methodologies
+
+- Scrum & Kanban  
+- SAFe Framework  
+- Sprint Planning  
+- Product Backlog Management  
+
+</td>
+
+<td align="left" width="300">
+
+### 📊 Data Analytics
+
+- Power BI Dashboards  
+- KPIs & OKRs  
+- Financial Analytics  
+- SQL & Python  
+
+</td>
+
+</tr>
+</table>
 
 </div>
-
-## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegoram17&show_icons=true&count_private=true&title_color=2c5364&icon_color=203a43&text_color=444&bg_color=f8f9fa&border_color=2c5364&border_radius=10" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoram17&layout=compact&title_color=2c5364&text_color=444&bg_color=f8f9fa&border_color=2c5364&border_radius=10" height="165"/>
+<div style="width:75%; height:1px; background:#30363d;"></div>
 </div>
 
----
+<div align="center">
+
+<table>
+<tr>
+
+<td align="left" width="300">
+
+### 🔄 Digital Transformation
+
+- RPA Automation  
+- Low-Code Solutions  
+- Process Redesign  
+- Change Management  
+
+</td>
+
+<td align="left" width="300">
+
+### 💰 Corporate Finance
+
+- Financial Modeling  
+- Cost-Benefit Analysis  
+- Budgeting & OPEX  
+- CFA Level I  
+
+</td>
+
+</tr>
+</table>
+
+</div>
+```
+
 
 ## 🤝 Conectemos
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-armando-ramos-llano-pmp/)
 [![Email](https://img.shields.io/badge/Email-diegoram17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegoram17@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B51%20955567668-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/51955567668)
 
 </div>
 
